@@ -31,7 +31,7 @@ Atmospheric scattering implemented using a physically based raymarching approach
 ## Features
 Customizable atmospheric effects with builtin editor visualizations and real-time in-editor updating to easily create your own custom atmospheres for external (from space) and internal (from inside) rendering effects:
 
-![Exoplanet Collage](Documentation~/Images/ExoplanetCollage.PNG)
+![Exoplanet Collage](Documentation~/Images/ExoplanetCollage.png)
 _Exoplanet Front, Profile, Rear, and Surface Sunset_
 
 *   **Unity 6 RenderGraph Implementation:** Built using the modern RenderGraph API for efficient integration with URP.
