@@ -3,9 +3,9 @@
 ![URP](https://img.shields.io/badge/URP-Required-blue)
 [![License](https://img.shields.io/badge/License-MIT-brightgreen)](LICENSE)
 
-Atmospheric scattering implemented using a physically-based raymarching approach to simulate planetary atmospheres as a renderer feature compatible with Unity's latest RenderGraph API.
+Atmospheric scattering implemented using a physically based raymarching approach to simulate planetary atmospheres as a renderer feature compatible with Unity's latest RenderGraph API.
 
-![Atmospheric Scattering Banner](Documentation/Images/AtmosphericScatteringBannerAlternate.PNG)
+![Atmospheric Scattering Banner](Documentation~/Images/AtmosphericScatteringBannerAlternate.PNG)
 
 ## Table of Contents
 *   [Features](#features)
@@ -31,7 +31,7 @@ Atmospheric scattering implemented using a physically-based raymarching approach
 ## Features
 Customizable atmospheric effects with builtin editor visualizations and real-time in-editor updating to easily create your own custom atmospheres for external (from space) and internal (from inside) rendering effects:
 
-![Exoplanet Collage](Documentation/Images/ExoplanetCollage.PNG)
+![Exoplanet Collage](Documentation~/Images/ExoplanetCollage.PNG)
 _Exoplanet Front, Profile, Rear, and Surface Sunset_
 
 *   **Unity 6 RenderGraph Implementation:** Built using the modern RenderGraph API for efficient integration with URP.
@@ -171,7 +171,7 @@ These control the color and strength of scattering/absorption:
 ## Editor Features & Visualizations
 The editor integration makes creating and configuring your atmosphere easy and intuitive:
 
-![Profile Visualization](Documentation/Images/SceneProfileEditor.PNG)
+![Profile Visualization](Documentation~/Images/SceneProfileEditor.PNG)
 _Editor view of configuring profile with visualizations_
 
 Including the following additional features:
