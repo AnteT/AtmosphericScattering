@@ -6,7 +6,7 @@
     "unity": "6000.0", 
 	"repository": {
     "type": "git",
-    "url": "https://github.com/AnteT/atmospheric-scattering.git"
+    "url": "https://github.com/AnteT/AtmosphericScattering.git"
 	},
     "keywords": [
       "atmosphere",
