@@ -1,0 +1,22 @@
+{
+    "name": "antetc.AtmosphericScattering.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5df3347f73997e34c9916d641686411f",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:3eae0364be2026648bf74846acb8a731",
+        "GUID:46cfa773b3360b645ac0ad8a710d56a0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

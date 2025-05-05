@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff6b9c536c1ed942b51497c11be33f8, type: 3}
+  m_Name: ExoplanetProfile
+  m_EditorClassIdentifier: 
+  settings:
+    planetRadius: 98.7
+    atmosphereHeight: 70
+    densityScale: 8.2
+    densityEdgeSmoothness: 1
+    rayleighScaleHeightNorm: 0.38
+    mieScaleHeightNorm: 0.335
+    ozoneCenterAltitudeNorm: 0.25
+    ozoneWidth: 0.3
+    rayleighScatteringCoeff: {r: 33.100002, g: 5.8921466, b: 20.136652, a: 1}
+    rayleighScaleFactor: 0.369
+    mieScatteringCoeff: {r: 1.452938, g: 4.185093, b: 1.8031105, a: 1}
+    mieScaleFactor: 0.065
+    ozoneAbsorptionCoeff: {r: 0.05968587, g: 1.4030274, b: 1.9000001, a: 1}
+    ozoneScaleFactor: 0.16
+    mieG: 0.95
+    sunIntensity: 20
+    ambientIntensity: 4.6
+    atmosphereTint: {r: 1, g: 1, b: 1, a: 1}

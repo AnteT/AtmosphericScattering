@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ff6b9c536c1ed942b51497c11be33f8, type: 3}
+  m_Name: EarthProfile
+  m_EditorClassIdentifier: 
+  settings:
+    planetRadius: 100
+    atmosphereHeight: 12
+    densityScale: 30.4
+    densityEdgeSmoothness: 1
+    rayleighScaleHeightNorm: 0.1
+    mieScaleHeightNorm: 0.077
+    ozoneCenterAltitudeNorm: 0.157
+    ozoneWidth: 0.336
+    rayleighScatteringCoeff: {r: 5.8, g: 13.5, b: 33.1, a: 1}
+    rayleighScaleFactor: 0.438
+    mieScatteringCoeff: {r: 3.9, g: 3.9, b: 3.9, a: 1}
+    mieScaleFactor: 0.33
+    ozoneAbsorptionCoeff: {r: 0.6, g: 1.9, b: 0.05, a: 1}
+    ozoneScaleFactor: 0.071
+    mieG: 0.975
+    sunIntensity: 16
+    ambientIntensity: 3.5
+    atmosphereTint: {r: 1, g: 1, b: 1, a: 1}

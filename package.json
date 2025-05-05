@@ -1,0 +1,32 @@
+{
+    "name": "com.antetc.atmospheric-scattering", 
+    "version": "1.0.0", 
+    "displayName": "Atmospheric Scattering", 
+    "description": "Atmospheric scattering implementation using a physically-based raymarching approach to simulate atmospheric scattering as a renderer feature compatible with Unity's latest RenderGraph API for URP.",
+    "unity": "6000.0", 
+	"repository": {
+    "type": "git",
+    "url": "https://github.com/AnteT/atmospheric-scattering.git"
+	},
+    "keywords": [
+      "atmosphere",
+      "scattering",
+	  "rendergraph",
+      "physics",
+      "rendering",
+      "urp",
+      "space",
+      "planet"
+    ],
+    "samples": [
+        {
+          "displayName": "Atmosphere Example Scene",
+          "description": "This sample shows two different atmospheric profiles, one Earth like and one Exoplanet, and how to use the package features within a scene.",
+          "path": "Samples~/ExampleScene"
+        }
+    ],    
+    "author": {
+      "name": "Ante Tonkovic-Capin", 
+      "email": "antetc@icloud.com"
+    }
+}
