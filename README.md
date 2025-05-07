@@ -8,6 +8,7 @@ Atmospheric scattering implemented using a physically based raymarching approach
 ![Atmospheric Scattering Banner](Documentation~/Images/AtmosphericScatteringBannerAlternate.PNG)
 
 ## Table of Contents
+*   [Atmospheres](#atmospheres)
 *   [Features](#features)
 *   [Requirements](#requirements)
 *   [Installation](#installation)
@@ -28,12 +29,18 @@ Atmospheric scattering implemented using a physically based raymarching approach
 *   [Documentation](#documentation)
 *   [License](#license)
 
-## Features
-Customizable atmospheric effects with builtin editor visualizations and real-time in-editor updating to easily create your own custom atmospheres for external (from space) and internal (from inside) rendering effects:
+## Atmospheres
+Customizable atmospheric effects with builtin editor visualizations and real-time in-editor updating to easily create your own custom atmospheres for external (from space) and internal (from inside) rendering, like this Earth like atmosphere:
+
+![Earth Collage](Documentation~/Images/EarthCollage.png)
+_Earth from space, midday, dusk and sunset from surface_
+
+Exoplanets or whatever kind of atmosphere you want:
 
 ![Exoplanet Collage](Documentation~/Images/ExoplanetCollage.png)
-_Exoplanet Front, Profile, Rear, and Surface Sunset_
+_Exoplanet front, profile, rear, and surface sunset_
 
+## Features
 *   **Unity 6 RenderGraph Implementation:** Built using the modern RenderGraph API for efficient integration with URP.
 *   **Physically-Inspired Parameters:** Configure atmospheres using intuitive properties like planet radius, atmosphere height, scale heights for different scattering components, scattering/absorption coefficients, and light intensity.
 *   **Multiple Scattering Components:** Simulates:
